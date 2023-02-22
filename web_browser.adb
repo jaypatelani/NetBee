@@ -30,7 +30,7 @@ begin
    Gtk.Container.Add(Main_Window, Web_View);
 
    -- Load a web page
-   Web_View.Load_URI(WebKit.URI.Web("http://www.example.com"));
+   Web_View.Load_URI(WebKit.URI.Web("http://netbsd.org/"));
 
    -- Show the main window and run the main loop
    Gtk.Widget.Show_All(Main_Window);

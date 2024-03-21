@@ -1,4 +1,5 @@
 with Ada.Text_IO;
+with "gtkada";
 with Gtk.Main;
 with Gtk.Widget;
 with Gtk.Window;

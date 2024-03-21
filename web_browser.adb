@@ -1,5 +1,4 @@
 with Ada.Text_IO;
-with Gtkada;
 with Gtk.Main;
 with Gtk.Widget;
 with Gtk.Window;
@@ -38,4 +37,3 @@ begin
    Gtk.Main.Main;
 
 end Web_Browser;
-
